@@ -11,6 +11,6 @@ npm install
 npm start
 ```
 
-I may add some pages for each component but for now, the comments for each component in the `code src` folder should be enough. 
+I may add some pages for each component but for now, the comments for each component in the `src` folder should be enough. 
 
 
