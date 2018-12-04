@@ -10,7 +10,6 @@ This effort is just a solo project and I may not invite other unless something h
 
 npm install
 npm startl
-
 `
 I may add some pages for each component but for now, the comments for each component in the `code src` folder should be enough. 
 
