@@ -6,10 +6,10 @@ The initial reason for this library was a way for me to learn React and how to c
 
 This effort is just a solo project and I may not invite other unless something happens to change that. For now, if you clone this repository, you can get started with it like so: 
 
-`
+``` javascript 
 npm install
-npm startl
-`
+npm start
+```
 
 I may add some pages for each component but for now, the comments for each component in the `code src` folder should be enough. 
 
