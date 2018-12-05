@@ -40,4 +40,4 @@ The ``create-react-app`` development server should start, displaying the index p
 
 ~ Enjoy
 
-Clayton Barnette
+Clayton Barnette 
