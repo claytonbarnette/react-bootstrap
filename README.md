@@ -3,7 +3,7 @@
 This project was bootstraped with the `create-react-app` and is a work in progress (WIP)
 
 ## Why was this project created?
------
+---
 The initial reason for this library was a way for me to really learn React and how to create reusable components that could be used on my own sites or in a client's project. Since my early days of HTML, like most developers at that time, I had my own opinions of how tags should have been designed and implemented, but that was not in my/our control, until now. 
 
 Today, React and other frameworks like Angular, Polymer and many others are redefining how tags work and custom components have become common place. An organization can now have it's own brand of 'HTML Components' based on it's business requirements or development workflow. They also can include any leading edge or current framework stylings like Bootstrap and Foundation or whatever is next. 
