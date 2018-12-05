@@ -3,7 +3,6 @@
 This project was bootstraped with the `create-react-app` and is a work in progress (WIP)
 
 ## Why was this project created?
----
 The initial reason for this library was a way for me to really learn React and how to create reusable components that could be used on my own sites or in a client's project. Since my early days of HTML, like most developers at that time, I had my own opinions of how tags should have been designed and implemented, but that was not in my/our control, until now. 
 
 Today, React and other frameworks like Angular, Polymer and many others are redefining how tags work and custom components have become common place. An organization can now have it's own brand of 'HTML Components' based on it's business requirements or development workflow. They also can include any leading edge or current framework stylings like Bootstrap and Foundation or whatever is next. 
@@ -13,15 +12,13 @@ As I work on this project, I hope this library could become something usable for
 
 First, I need to finish my initial effort and build some simple sample sites with the components to work out any kinks. For now, I will continue to work on this until I reach a stopping point or reach my goal. This effort is just a solo project and I may not invite other unless something happens to change that. For now, if you clone this repository, you can get started with it like so: 
 
-### Clone Repository: 
----
+## Clone Repository: 
 ```git
 git clone https://github.com/claytonbarnette/restrap [your-project-name]
 ```
 
 
-### Install Dependencies:
-
+## Install Dependencies:
 After the downloading the repo, ```cd``` into the [your-project-name] folder, then issue the following commands. 
 
 > **Note:** *You will need Nodejs and NPM installed to run these commands.*
